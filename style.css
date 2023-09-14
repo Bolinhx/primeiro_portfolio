@@ -4,10 +4,22 @@
     padding:0px;
 }
 body {
-    height: 100vh;
     box-sizing: border-box;
     background-color: #01011C;
     color: #F5FEFB;
+}
+
+.cabecalho__menu{
+    display:flex;
+    padding: 2% 0% 0% 15%;
+    gap: 80px;
+
+}
+.cabecalho__menu__links{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: #22D4FD;
+    font-size:24px;
 }
 
 .titulo-destaque{
@@ -15,7 +27,7 @@ body {
 }
 
 .apresentacao{
-    margin: 10% 15%;
+    margin: 8% 15%;
     display:flex;
     align-items: center;
     justify-content: space-between;
@@ -71,4 +83,17 @@ body {
 
 .apresentacao__links__link:hover{
     background-color: #020230;
+}
+
+.nome_hover:hover{
+    color: #22D4FD;
+}
+
+.rodape{
+    background-color:#22D4FD;
+    color: #020230;
+    text-align: center;
+    padding:24px;
+    font-family:'Montserrat', sans-serif;
+    font-weight:400px;
 }
