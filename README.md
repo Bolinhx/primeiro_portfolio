@@ -1,8 +1,8 @@
 ```
 
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+#Olá, Bem vindo ao meu projeto de portfólio.
 
-## Ferramentas utilizadas:
+##Ferramentas utilizadas:
 
 * HTML
 
@@ -14,4 +14,4 @@
 
 ### Bernardo Soutelo
 
-### Linkedin: https://www.linkedin.com/in/bernardo-soutelo/
+[Linkedin](https://www.linkedin.com/in/bernardo-soutelo/)
