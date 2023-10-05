@@ -1,12 +1,10 @@
-```
+# Olá, Bem vindo ao meu projeto de portfólio.
 
-#Olá, Bem vindo ao meu projeto de portfólio.
+## Ferramentas utilizadas:
 
-##Ferramentas utilizadas:
+*  HTML
 
-* HTML
-
-* CSS
+*  CSS
 
 * Flex-box
 
